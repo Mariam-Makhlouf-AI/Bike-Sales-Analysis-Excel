@@ -46,4 +46,7 @@ Software Engineering Student | Interested in Data Analytics
 ## 🏢 Initiative
 
 Digital Egypt Pioneers Initiative (DEPI)
+## 📸 Dashboard Preview
+
+![Bike Sales Dashboard](<Bike_Sales_Dashboard.png (2).png>)
 
